@@ -9,7 +9,7 @@
     margin: auto;
     margin-bottom: 150px;
     gap: 30px;
-    background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
+    background: linear-gradient(180deg, #8ACBA6 0%, #e1ffea22 60%);
 }
 .newsletter h1{
     font-weight: 600;
@@ -28,7 +28,7 @@
     height: 70px;
     width: 730px;
     border-radius: 80px;
-    border: 1px solid #e3e3e3;
+    border: 1px solid #8ACBA6;
 }
 .newsletter input{
     width: 500px;
